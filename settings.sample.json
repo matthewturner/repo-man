@@ -1,0 +1,7 @@
+{
+    "owner_type": "user or org",
+    "owner": "username",
+    "search_term": "some term to search for",
+    "date_format": "dd/MM/yyyy HH:mm",
+    "duration": 14
+}
